@@ -35,4 +35,4 @@ Bash scripts for each experiment can be found in `code/experiments`.  Any experi
 cd code
 bash experiments/univariate/vt_all_datasets.sh
 ```
-This example will train a Vanilla Transformer model for each dataset in our univariate setting.  Results will be printed in the terminal.  Additionally, all results are saved in `experiments/results` in a Pickled Pandas DataFrame for batch processing by the user.
+This example will train a Vanilla Transformer model for each dataset in our univariate setting.  Results will be printed in the terminal.  Additionally, all results are saved in `code/results` in a Pickled Pandas DataFrame for batch processing by the user.
